@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://igor-creator-igtm.github.io/ulaz/sitemap.xml
+Sitemap: https://zasto.unlocktheessence.com/sitemap.xml
