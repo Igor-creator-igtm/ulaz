@@ -158,3 +158,29 @@ p {
     font-size: 16px;
   }
 }
+.inline-cta {
+  margin: 24px 0 26px;
+  padding: 18px 0 0;
+  border-top: 1px solid var(--line);
+}
+
+.inline-cta p {
+  margin: 0 0 10px;
+  color: var(--muted);
+}
+
+.inline-cta a {
+  display: inline-block;
+  color: var(--link);
+  text-decoration: underline;
+  font-size: 17px;
+}
+
+.inline-cta a:hover {
+  color: var(--link-hover);
+}
+
+.site-footer a + a {
+  display: inline-block;
+  margin-top: 6px;
+}
